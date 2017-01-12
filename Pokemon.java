@@ -1,5 +1,3 @@
-//package mapremiereclasse;
-
 public class Pokemon{
 	String nom; //stocke le nom du pokemon
 	int pv; //stocke les points de vie
